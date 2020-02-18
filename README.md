@@ -3,6 +3,7 @@ A list of resources related to the Polanie RTS game
 
 * [Polanie fan site](http://polanie.prv.pl/) [Polish] [[archive.is mirror](https://archive.ph/4emUq)] [[GitHub mirror](https://github.com/jstasiak/polanie.prv.pl-mirror)]
 * [Polanie fan site guest book](https://www.prv.pl/api,tools,guestbook,comments,44847) [Polish] [[archive.is mirror](https://archive.ph/YWZqu)]
+* [OpenPol – my work-in-progress open source reimplementation](https://github.com/jstasiak/openpol) [English]
 * [PolanieWin multiplayer remake](http://members.upcpoczta.pl/m.mrowinski3/Polanie/) [Polish] [[archive.is mirror](https://archive.ph/m8bGr)]
 * [A post (dated 2014-07-14) made on comper.games forum about another person collaborating with PolanieWin creator but with a note that PolanieWin was effectively defunct](https://forum.comper.games/showthread.php?11613-PolanieWin) [Polish] [[archive.is mirror](https://archive.ph/2nFM6)]
 * [PolanieWin 2012-12-03 multiplayer demonstration](https://www.youtube.com/watch?v=ZtKiOSDjurY) [Polish]
