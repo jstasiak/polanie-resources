@@ -12,3 +12,4 @@ A list of resources related to the Polanie RTS game
 * [RunStopRestore review transcript (2009-06-25)](https://run-stop-restore.blogspot.com/2009/06/polanie-aka-victory-aka-slavs-topware.html) [English] [[archive.is mirror](https://archive.ph/GTK6J)]
 * [Victory (German version) gameplay by GBFakaDerAltmeister](https://www.youtube.com/watch?v=MYKFBDNWMHs&list=PL3DEB492C8590E840) [German]
 * [MobyGames page](https://www.mobygames.com/game/polanie) [English] [[archive.is mirror](https://archive.ph/OLb92)]
+* [high-voltage.cz review of the Czech version (Osadnici)](https://www.high-voltage.cz/2013/osadnici-warcraft-polsky-a-blbe/) [Czech] [[archive.is mirror](https://archive.ph/Qoqxv)]
