@@ -18,3 +18,5 @@ A list of resources related to the Polanie RTS game
 * [My abandonware page](https://www.myabandonware.com/game/polanie-c3n) [English] [[archive.is mirror](https://archive.ph/K5Fc7)]
 * [GRYOnline.pl page](https://www.gry-online.pl/gry/polanie/z41199) [Polish] [[archive.is mirror](https://archive.ph/Vwhj3)]
 * [Old-Games.RU page](https://www.old-games.ru/game/3534.html) [Russian] [[archive.is mirror](https://archive.ph/640IB)]
+* [CD version (no CD audio) YouTube gameplay by Blacku](https://www.youtube.com/watch?v=aAc6ydQppDs&list=PLpRWsM4tqtWvDRdyO4PsfH3peQ5BoSiNH) [Polish]
+* [Floppy version YouTube gameplay by manogame](https://www.youtube.com/watch?v=ec3QT4rhw0Y&list=PLgJ6_HpQjd2i2zpvCCw8Q8RUIqYGqOrF8)
