@@ -1,7 +1,7 @@
 # polanie-resources
 A list of resources related to the Polanie RTS game
 
-* [Polanie fan site](http://polanie.prv.pl/) [Polish] [[archive.is mirror](https://archive.ph/4emUq)] [[GitHub mirror](https://github.com/jstasiak/polanie.prv.pl-mirror)]
+* [Polanie fan site](http://polanie.prv.pl/) [Polish] [[archive.is mirror](https://archive.ph/4emUq)] [[archive.org mirror](https://web.archive.org/web/20160710192804/http://www.triton.cc.pl/sst/polanie/)] [[GitHub mirror](https://github.com/jstasiak/polanie.prv.pl-mirror)]
 * [Polanie fan site guest book](https://www.prv.pl/api,tools,guestbook,comments,44847) [Polish] [[archive.is mirror](https://archive.ph/YWZqu)]
 * [OpenPol – my work-in-progress open source reimplementation](https://github.com/jstasiak/openpol) [English]
 * [PolanieWin multiplayer remake](http://members.upcpoczta.pl/m.mrowinski3/Polanie/) [Polish] [[archive.is mirror](https://archive.ph/m8bGr)]
