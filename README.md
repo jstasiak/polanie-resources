@@ -20,3 +20,4 @@ A list of resources related to the Polanie RTS game
 * [Old-Games.RU page](https://www.old-games.ru/game/3534.html) [Russian] [[archive.is mirror](https://archive.ph/640IB)]
 * [CD version (no CD audio) YouTube gameplay by Blacku](https://www.youtube.com/watch?v=aAc6ydQppDs&list=PLpRWsM4tqtWvDRdyO4PsfH3peQ5BoSiNH) [Polish]
 * [Floppy version YouTube gameplay by manogame](https://www.youtube.com/watch?v=ec3QT4rhw0Y&list=PLgJ6_HpQjd2i2zpvCCw8Q8RUIqYGqOrF8)
+* [archive.org mirror of user.com.pl, the site of USER, the game's publisher](https://web.archive.org/web/20050209043632/http://www.user.com.pl:80/)
