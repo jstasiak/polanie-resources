@@ -16,6 +16,7 @@ A list of resources related to the Polanie RTS game
 * [PolanieWin multiplayer remake](http://members.upcpoczta.pl/m.mrowinski3/Polanie/) [Polish] [[archive.is mirror](https://archive.ph/m8bGr)]
 * [A post (dated 2014-07-14) made on comper.games forum about another person collaborating with PolanieWin creator but with a note that PolanieWin was effectively defunct](https://forum.comper.games/showthread.php?11613-PolanieWin) [Polish] [[archive.is mirror](https://archive.ph/2nFM6)]
 * [PolanieWin 2012-12-03 multiplayer demonstration](https://www.youtube.com/watch?v=ZtKiOSDjurY) [Polish]
+* [polanie-game – a port/remake by Thomas Strasser, based on the original source code](https://sourceforge.net/projects/polanie-game/). The source code is modified to the extent necessary to make it compile on modern platforms, the text content is translated to English. [English]
 
 ## Gameplays
 
